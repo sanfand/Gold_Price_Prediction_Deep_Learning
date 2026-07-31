@@ -1,6 +1,6 @@
 # Gold Price Prediction with Deep Learning (CNN, LSTM, CNN-LSTM)
 
-Undergraduate project (Computer Science, University of Tabriz) on forecasting the
+Project (Computer Science, University of Tabriz) on forecasting the
 price of gold (XAU/USD) using deep learning. Three architectures — a 1D CNN, an
 LSTM, and a hybrid CNN-LSTM — are built, trained, and compared on 15-minute
 XAU/USD price data.
