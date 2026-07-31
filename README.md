@@ -71,18 +71,3 @@ jupyter notebook Normal_CNN_and_LSTM_XAUUSD.ipynb
 Update the CSV path in the notebook to point to your local copy of the
 XAU/USD 15-minute dataset, then run the cells in order.
 
-## References
-
-- Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. *Neural
-  Computation*, 9(8), 1735–1780.
-- LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*,
-  521(7553), 436–444.
-- Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT
-  Press.
-- Chollet, F. (2017). *Deep Learning with Python*. Manning Publications.
-- [Keras Sequential model guide](https://keras.io/guides/sequential_model/)
-
-## Author
-
-Sana Farahmand — Computer Science, University of Tabriz
-Supervisor: Dr. Jaber Karimpour
