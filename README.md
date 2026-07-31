@@ -34,8 +34,7 @@ complexity.
 .
 ├── Normal_CNN_and_LSTM_XAUUSD.ipynb   # Main notebook: data prep, models, training, evaluation
 ├── README.md
-├── requirements.txt
-└── report/                            # (optional) project report (PDF)
+└── requirements.txt                          
 ```
 
 ## Data
